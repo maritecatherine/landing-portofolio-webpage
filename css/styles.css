@@ -1,7 +1,46 @@
-.eagle{
-    height: 100vh;
-    width:100%;
-    background-image: url(../images/eagle-bg.jpeg);
-    background-size: cover;
-    background-position: center;
+
+
+h2{
+    margin-top: 20px;
+}
+
+h3 {
+    color: chartreuse;
+}
+
+.kit{
+    margin-top: 20px;
+    text-align: right;
+    padding-top: 50px;
+}
+
+.sidebar{
+    float: right;
+    width: auto;
+    color: chocolate;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+
+}
+
+.hero{
+    height: 220px;
+    width: 220px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+.column{
+     padding-left: 450px;
 }
